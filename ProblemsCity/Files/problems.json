@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Queda de Arvore",
+        "address": "Rua Sete de Setembro 1200, Porto Alegre-RS",
+        "description": "Uma árvoque caiu na avenida, interrompendo o transito e danificando carros.",
+       "image": "arvore",
+       "date": "23/07/2022"
+    },
+    {
+        "name": "Queda de Poste",
+        "address": "Rua Osvaldo Aranha 1313, Bagé-RS",
+        "description": "Queda de poste obstruindo a via.",
+        "image": "poste",
+        "date": "24/07/2022"
+    },
+    {
+        "name": "Alagamento",
+        "address": "Rua 13 de Maio, Caxias do Sul-RS",
+        "description": "Em decorrencia da chuva toda extensão da rua esta alagada.",
+        "image": "alagamento",
+        "date": "25/07/2022"
+    }
+]
